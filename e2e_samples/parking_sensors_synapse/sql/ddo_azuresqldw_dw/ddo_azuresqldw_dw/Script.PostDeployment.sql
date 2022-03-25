@@ -1,5 +1,5 @@
 ﻿/*
-Post-Deployment Script Template	for testing sql-ci pipeline	2					
+Post-Deployment Script Template	for testing sql-ci pipeline	sinny					
 --------------------------------------------------------------------------------------
  This file contains SQL statements that will be appended to the build script.		
  Use SQLCMD syntax to include a file in the post-deployment script.			
